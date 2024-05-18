@@ -1,5 +1,3 @@
-#### Latest Builds
-
 ##### Latest AppVeyor build
 
 |Latest Build|
@@ -10,7 +8,7 @@
 
 
 # vMenu
-vMenu is a server-side menu for FiveM servers, including full\* permission support.
+vMenu is a server-side menu for FiveM servers, including permissions and audit-logs.
 
 
 \*(Some features do not have permissions support as they are either harmless or it'd just be silly to deny them. However, they will be disabled if you deny access to the submenu that they are a part of (eg: unlimited stamina in Player Options will be disabled if you deny `vMenu.PlayerOptions.Menu`.))
@@ -27,9 +25,6 @@ Click [here](https://github.com/TomGrobbe/vMenu/releases) to go to the releases 
 
 ## Installation
 Please follow the instructions over at the [vMenu docs](https://docs.vespura.com/vmenu/installation)
-
-## ZAP-Hosting
-You can use ZAP-Hosting's one-click installer for vMenu. Get your own FiveM server at ZAP-Hosting with a 20% discount [HERE](https://zap-hosting.com/vespura) and make sure to use `Vespura` at checkout.
 
 --------
 
@@ -70,9 +65,6 @@ vMenu v2.0.0 and earlier was [using a modified version of NativeUI](https://gith
 **For an updated license, check the license.md file. That file will always overrule anything mentioned in the readme.md**
 
 Tom Grobbe - https://www.vespura.com/
+Wisconsin State RP - https://discord.gg/wisconsinstaterp
 
-Copyright © 2017-2023
-
-You can use and edit this code to your liking as long as you don't ever claim it to be your code and always provide proper credit. 
-You're **not** allowed to sell vMenu or any code you take from it.
-If you want to release your version of vMenu, you have to link the original GitHub repo or release it via a Forked repo.
+Copyright © 2017-2024
